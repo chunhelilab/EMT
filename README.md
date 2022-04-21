@@ -1,4 +1,4 @@
-EMT (epithelial-mesenchymal transition) is a basic developmental process, which might promote cancer metastasis, has been studied from various perspectives. This is a matlab implementation of simulating EMT by MAP theory.
+EMT (epithelial-mesenchymal transition) is a basic developmental process, which might promote cancer metastasis, has been studied from various perspectives. This is a matlab implementation of simulating EMT by landscape and MAP theory (Jintong Lang, Qing Nie, and Chunhe Li*, Landscape and kinetic path quantify critical transitions in epithelial-mesenchymal transition. Biophysical J. 120: 4484–4500 (2021)).
 
 matrix.txt is the matrix representing the relationship between genes.
 
